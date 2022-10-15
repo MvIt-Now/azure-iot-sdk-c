@@ -28,3 +28,6 @@
 [submodule "deps/azure-ctest"]
 	path = deps/azure-ctest
 	url = https://github.com/Azure/azure-ctest.git
+[submodule "umqtt"]
+	path = umqtt
+	url = git@github.com:MvIt-Now/azure-umqtt-c.git
